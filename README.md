@@ -7,7 +7,7 @@ This project is part of the course CS527 at Rutgers University.
 
 The web application is specifically designed to take user queries as input and seamlessly execute them on our AWS data infrastructure. It establishes connections with MySQL, RedShift, and MongoDB server databases, offering users the flexibility to choose the desired database (Instacart or ADNIMERGE) for query execution. Once the query is submitted, it undergoes processing, and the resulting output is displayed on the intuitive interface for easy user access. Additionally, we have incorporated a convenient feature that allows users to effortlessly view the Entity-Relationship (ER) diagram of the dataset whenever needed.
 
-# Installation
+## Installation
 A few things are required before getting started with the project:
 - Java 
 - Gradle 
@@ -18,7 +18,7 @@ A few things are required before getting started with the project:
 2. Configure IDE to point to the required gradle version
 3. Voila! The project is ready to run - `gradle bootrun`
 
-# Tech Stack 
+## Tech Stack 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="20" height="20"/> Spring Boot </br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="mongo" width="20" height="20"/> Amazon Web Services </br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> MySQL </br>
@@ -28,7 +28,7 @@ A few things are required before getting started with the project:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="20" height="20"/> JavaScript </br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="20" height="20"/> Gradle </br> 
 
-# Contributors
+## Contributors
 <table>
   <tr>
     <td align="center"><a href="https://github.com/karanbheda"><img src="https://avatars.githubusercontent.com/u/20036739?v=4" width="100px;" alt=""/><br /><sub><b>Karan Bheda</b></sub></a></td>
