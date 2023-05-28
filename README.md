@@ -3,7 +3,7 @@
 ![total lines](https://img.shields.io/tokei/lines/github/karanbheda/SQLExecutor)
 
 # SQL Executor
-This project is part of the course CS-527 at Rutgers University.
+This project is part of the course CS527 at Rutgers University.
 
 The web application is specifically designed to take user queries as input and seamlessly execute them on our AWS data infrastructure. It establishes connections with MySQL, RedShift, and MongoDB server databases, offering users the flexibility to choose the desired database (Instacart or ADNIMERGE) for query execution. Once the query is submitted, it undergoes processing, and the resulting output is displayed on the intuitive interface for easy user access. Additionally, we have incorporated a convenient feature that allows users to effortlessly view the Entity-Relationship (ER) diagram of the dataset whenever needed.
 
