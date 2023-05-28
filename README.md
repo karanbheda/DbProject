@@ -28,7 +28,7 @@ A few things are required before getting started with the project:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="20" height="20"/> JavaScript </br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="20" height="20"/> Gradle </br> 
 
-# Developers
+# Contributors
 <table>
   <tr>
     <td align="center"><a href="https://github.com/karanbheda"><img src="https://avatars.githubusercontent.com/u/20036739?v=4" width="100px;" alt=""/><br /><sub><b>Karan Bheda</b></sub></a></td>
